@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmetcan</h1>
 <h3 align="center">Java & Android Developer</h3>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ACanERL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/ahmetcan-erol-acnerl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ahmetcan-erol-acnerl/" height="30" width="40" /></a>
