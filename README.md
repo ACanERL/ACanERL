@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmetcan</h1>
 <h3 align="center">Android,Java,Web</h3>
-👀 i am interested in software development ...
-🌱 I’m always learning and practicing ...
+👀 I’m interested in software development ...<br>
+🌱 I’m always learning and practicing ...<br>
 📫 How to reach me ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
