@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmetcan</h1>
-<h3 align="center">Android,Java,Web</h3>
+
 👀 I’m interested in software development ...<br>
 🌱 I’m always learning and practicing ...<br>
 📫 How to reach me ...
